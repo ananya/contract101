@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.25;
 
-contract HelloWorld {
+contract T1HelloWorld {
     string public message = "Hello, World!";
 
     function setMessage(string memory newMessage) public {
